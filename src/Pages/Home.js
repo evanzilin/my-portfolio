@@ -2,10 +2,7 @@ import React from "react";
 import TypeWriterEffect from "react-typewriter-effect";
 import { Link, Outlet } from "react-router-dom";
 import {
-  FaFacebook,
-  FaInstagram,
   FaLinkedin,
-  FaTwitter,
   FaGithub,
   FaCloudDownloadAlt,
   FaTelegram,
@@ -67,7 +64,7 @@ const Home = () => {
             </a> */}
             <a
               className="link"
-              href="https://www.linkedin.com/in/shin-sakamoto-609059388/"
+              href="https://www.linkedin.com/in/aleksandar-stojanovic/"
               rel="noreferrer"
               target="_blank"
               aria-label="linkedin"
@@ -85,7 +82,7 @@ const Home = () => {
             </a> */}
             <a
               className="link"
-              href="https://github.com/toplustar"
+              href="https://github.com/evanzilin"
               rel="noreferrer"
               target="_blank"
               aria-label="github"
@@ -94,7 +91,7 @@ const Home = () => {
             </a>
             <a
               className="link"
-              href="https://t.me/xunibird"
+              href="https://t.me/Codemon88"
               rel="noreferrer"
               target="_blank"
               aria-label="telegram"
